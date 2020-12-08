@@ -1,0 +1,127 @@
+body {
+  background-color: #e5e5e5;
+  color: #212121;
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.03em;
+}
+
+.header-page {
+  background: #ffffff;
+}
+.logo {
+  font-family: "Raleway", sans-serif;
+  font-size: 26px;
+  font-weight: bold;
+  line-height: 31px;
+}
+.logo-start {
+  color: #2196f3;
+}
+.logo-end {
+  color: #000000;
+}
+.site-nav a {
+  letter-spacing: 0.02em;
+}
+.nav-link {
+  color: #212121;
+}
+.nav-link:hover,
+.nav-link:focus {
+  color: #2196f3;
+}
+
+.contact a {
+  line-height: 16px;
+  letter-spacing: 0.02em;
+}
+
+.contact-link {
+  color: #757575;
+}
+
+.contact-link:hover,
+.contact-link:focus {
+  color: #2196f3;
+}
+
+.main-box {
+  background-color: #2f303a;
+  height: 600px;
+}
+
+.main-title {
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 60px;
+  letter-spacing: 0.06em;
+  color: #ffffff;
+}
+
+.title-feature {
+  font-weight: bold;
+}
+
+.text-feature {
+  line-height: 24px;
+  color: #757575;
+}
+
+.subtitle {
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px;
+}
+
+.team {
+  font-size: 16px;
+  line-height: 19px;
+}
+
+.prof-name {
+  color: #757575;
+}
+
+.footer-page {
+  background: #2f303a;
+  height: 252px;
+}
+.address {
+  font-size: 14px;
+  line-height: 24px;
+  color: #ffffff;
+}
+.link-address {
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.button {
+  width: 200px;
+  height: 50px;
+  background: #2196f3;
+  color: #ffffff;
+}
+
+.btn {
+  background: #f5f4fa;
+  font-weight: 500;
+  font-size: 16px;
+}
+.btn:hover,
+.btn:focus {
+  background: #2196f3;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.title-project {
+  font-weight: bold;
+  font-size: 18px;
+}
+.title-app {
+  font-weight: normal;
+  font-size: 16px;
+  color: #757575;
+}
