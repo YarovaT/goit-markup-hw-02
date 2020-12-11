@@ -108,6 +108,10 @@ body {
 }
 
 /* Особенности */
+.features-title {
+  font-size: var(--primary-font-size);
+}
+
 .features-text {
   line-height: 1.71;
   color: var(--secondary-text-color);
