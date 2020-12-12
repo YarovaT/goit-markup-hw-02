@@ -107,6 +107,11 @@ body {
   text-align: center;
 }
 
+.main-title,
+.features-title {
+  text-transform: uppercase;
+}
+
 /* Особенности */
 .features-title {
   font-size: var(--primary-font-size);
