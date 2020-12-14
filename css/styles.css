@@ -9,8 +9,7 @@
   --primary-text-color: #212121;
   --secondary-text-color: #757575;
   --accent-color: #2196f3;
-  --standart-color: #ffffff;
-  --primary-background-color: #e5e5e5;
+  --primary-background-color: #ffffff;
   --secondary-background-color: #f5f4fa;
   --accent-background-color: #2f303a;
   --primary-font-size: 14px;
@@ -42,7 +41,7 @@ body {
 
 /* Шапка сайта */
 .header-page {
-  background-color: var(--standart-color);
+  background-color: var(--primary-background-color);
 }
 
 /* Логотип сайта */
@@ -61,7 +60,7 @@ body {
 }
 
 .logo-end-footer {
-  color: var(--standart-color);
+  color: var(--primary-background-color);
 }
 
 /* Основная навигация сайта*/
@@ -103,7 +102,7 @@ body {
   font-size: 44px;
   line-height: 1.36;
   letter-spacing: 0.06em;
-  color: var(--standart-color);
+  color: var(--primary-background-color);
   text-align: center;
 }
 
@@ -150,7 +149,7 @@ body {
 
 /*Главная страница Портфолио*/
 .project-info {
-  background-color: var(--standart-color);
+  background-color: var(--primary-background-color);
 }
 
 .project-title {
@@ -176,7 +175,7 @@ body {
   font-size: var(--primary-font-size);
   line-height: 1.71;
   font-style: normal;
-  color: var(--standart-color);
+  color: var(--primary-background-color);
 }
 
 .address-link {
@@ -197,7 +196,7 @@ body {
   line-height: 1.87;
   letter-spacing: 0.06em;
   background-color: var(--accent-color);
-  color: var(--standart-color);
+  color: var(--primary-background-color);
 }
 
 .btn {
@@ -211,6 +210,6 @@ body {
 .btn:hover,
 .btn:focus {
   background: var(--accent-color);
-  color: var(--standart-color);
+  color: var(--primary-background-color);
   cursor: pointer;
 }
